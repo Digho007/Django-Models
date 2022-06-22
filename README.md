@@ -1,3 +1,10 @@
+#Please have mercy!!! Here is the link to my django zuri-admin url assignment 
+https://github.com/Digho007/Django_url.git
+
+I had issues with my eyes because of the frequent exposure to my laptop, so I couldn't submit it at the due date. 
+
+
+
 # Django-Models
 
 Create a new GitHub repository with a README.md, and Python .gitignore file.
